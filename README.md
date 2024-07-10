@@ -168,7 +168,7 @@ npm install yg-js-utils --save
         20.验证护照（包含香港、澳门）
 ## 如何使用
 ``` language
-import { deepCopy } from 'js-util-libs';
+import { deepCopy } from 'yg-js-utils';
 ```
 ``` language
 const obj = {
